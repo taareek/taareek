@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Computer Vision, Deep Learning, Human Psychology, Nature and Ancient History. 
 - 🌱 I’m currently learning Computer Vision, Neural Networks and Web applications. 
 - 💞️ I’m looking to collaborate on Research work. 
-- 📫 We can reach me via email. 
+- 📫 You can reach me via email. 
 
 <!---
 taareek/taareek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
