@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarek Aziz
 - 👀 I’m interested in Machine Learning, Computer Vision, Deep Learning, Human Psychology, Nature and Ancient History. 
-- 🌱 I’m currently learning Computer Vision, Neural Networks and Web applications. 
+- 🌱 I’m currently learning Computer Vision, Neural Networks and Software Engineering. 
 - 💞️ I’m looking to collaborate on Research work. 
 - 📫 You can reach me via email. 
 
